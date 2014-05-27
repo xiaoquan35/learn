@@ -8,3 +8,4 @@ Creating a new branch is quick AND hard.
 Creating a new branch is quick AND simple.
 Creating a new branch is quick AND simple1.
 Creating a new branch is quick AND simple2.
+Creating a new branch is quick AND simple3.
